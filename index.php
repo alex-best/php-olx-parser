@@ -1,3 +1,4 @@
+<?php
 use Guzzle\Http\Client;
 use Symfony\Component\DomCrawler\Crawler;
 
