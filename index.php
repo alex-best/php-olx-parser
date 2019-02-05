@@ -11,7 +11,7 @@ Route::get('parseOlx', function () {
             if (strripos(strtolower($text), strtolower($keywords[$x]))) {
                 $found = true;
 //                break;
-            }
+// TTTTTEEESSSSSSSSTTTTTTTT            }
 
         }
         return $found;
